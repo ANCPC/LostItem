@@ -1,0 +1,11 @@
+admin,admin123,ADMIN,500
+RajSharma1,pass2239,USER,72
+SimranVerma2,pass7600,USER,110
+AmitSingh3,pass8082,USER,355
+PriyaKaur4,pass9203,USER,61
+VikramPatel5,pass5785,USER,433
+NehaReddy6,pass2364,USER,141
+RohanGupta7,pass5337,USER,415
+KavyaNair8,pass6831,USER,34
+ArjunSharma9,pass8675,USER,460
+DivyaVerma10,pass4664,USER,182

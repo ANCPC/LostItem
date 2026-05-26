@@ -1,0 +1,12 @@
+1|admin|AmitSingh3|Your points request has been granted.|1779800435|POINTS_GRANTED
+2|RohanGupta7|admin|Hello, your item claim has been reviewed.|1779780585|ADMIN_MSG
+3|VikramPatel5|ArjunSharma9|Your points request has been granted.|1779791706|POINTS_GRANTED
+4|SimranVerma2|admin|Your points request has been granted.|1779806342|POINTS_GRANTED
+5|RohanGupta7|admin|General message about lost & found item.|1779776153|NORMAL
+6|PriyaKaur4|DivyaVerma10|Your points request has been granted.|1779787213|POINTS_GRANTED
+7|KavyaNair8|PriyaKaur4|General message about lost & found item.|1779777216|NORMAL
+8|VikramPatel5|SimranVerma2|Your points request has been granted.|1779780246|POINTS_GRANTED
+9|KavyaNair8|RajSharma1|Your claim status has been updated.|1779780557|CLAIM_UPDATE
+10|VikramPatel5|SimranVerma2|General message about lost & found item.|1779780578|NORMAL
+11|SimranVerma2|DivyaVerma10|Hello, your item claim has been reviewed.|1779787176|ADMIN_MSG
+12|RajSharma1|RohanGupta7|General message about lost & found item.|1779797091|NORMAL

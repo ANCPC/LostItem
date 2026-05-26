@@ -1,0 +1,25 @@
+1|SimranVerma2|FOUND|Sunglasses|Stationery|Sunglasses found in Ground|0
+2|admin|LOST|Watch|Stationery|Watch found in Library|30
+3|RajSharma1|LOST|Calculator|Personal|Calculator found in Ground|47
+4|SimranVerma2|FOUND|ID Card|Clothing|ID Card found in Parking|0
+5|PriyaKaur4|LOST|Headphones|Electronics|Headphones found in Lab|93
+6|PriyaKaur4|LOST|Headphones|Electronics|Headphones found in Canteen|45
+7|VikramPatel5|LOST|Wallet|Electronics|Wallet found in Ground|26
+8|AmitSingh3|FOUND|Headphones|Accessories|Headphones found in Parking|0
+9|PriyaKaur4|LOST|Keys|Stationery|Keys found in Classroom 101|31
+10|PriyaKaur4|LOST|Headphones|Personal|Headphones found in Parking|34
+11|NehaReddy6|LOST|Laptop|Personal|Laptop found in Ground|49
+12|NehaReddy6|FOUND|Charger|Clothing|Charger found in Parking|0
+13|SimranVerma2|LOST|Keys|Stationery|Keys found in Classroom 101|67
+14|SimranVerma2|LOST|Charger|Accessories|Charger found in Lab|173
+15|PriyaKaur4|LOST|Keys|Electronics|Keys found in Canteen|152
+16|SimranVerma2|LOST|Sunglasses|Accessories|Sunglasses found in Library|23
+17|DivyaVerma10|LOST|Keys|Electronics|Keys found in Classroom 101|191
+18|KavyaNair8|LOST|Laptop|Stationery|Laptop found in Lab|87
+19|DivyaVerma10|FOUND|Umbrella|Personal|Umbrella found in Lab|0
+20|SimranVerma2|FOUND|Phone|Electronics|Phone found in Library|0
+21|SimranVerma2|LOST|Phone|Clothing|Phone found in Ground|84
+22|VikramPatel5|FOUND|Sunglasses|Electronics|Sunglasses found in Library|0
+23|PriyaKaur4|LOST|Keys|Electronics|Keys found in Ground|46
+24|NehaReddy6|LOST|Umbrella|Personal|Umbrella found in Lab|166
+25|VikramPatel5|LOST|ID Card|Stationery|ID Card found in Ground|5
